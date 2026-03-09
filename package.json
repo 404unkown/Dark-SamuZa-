@@ -12,7 +12,7 @@
     "express": "^4.18.2",
     "fs-extra": "^11.2.0",
     "pino": "^8.17.0",
-    "jimp": "^0.22.12",
+    "jimp": "^0.32.6",
     "@dark-yasiya/scrap": "1.0.1",
     "@octokit/rest": "^20.0.2",
     "denethdev-ytmp3": "1.0.3",
