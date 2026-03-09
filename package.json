@@ -23,7 +23,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "ffmpeg-static": "^5.1.0",
     "node-fetch": "3.3.2",
-    "sharp": "0.34.1",
+    "sharp": "0.32.6",
     "@dark-yasiya/yt-dl.js": "1.0.5",
     "file-type": "21.0.0",
     "axios": "^1.2.5",
