@@ -34,7 +34,7 @@
     "@blackamda/telegram-image-url": "1.0.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "20.x"
   },
   "keywords": [
     "whatsapp",
