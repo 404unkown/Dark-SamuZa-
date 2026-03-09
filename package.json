@@ -1,18 +1,18 @@
 {
-  "name": "QueenAshaBot",
+  "name": "madmaxfreebot",
   "version": "1.0.0",
-  "description": "Queen Asha Mini WhatsApp Bot with Multi-Number Support",
+  "description": "mad max free bot WhatsApp Bot with Multi-Number Support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-   "baileys": "github:Piko86/BlazeXBaileys",
+    "@whiskeysockets/baileys": "^6.7.21",
     "express": "^4.18.2",
     "fs-extra": "^11.2.0",
     "pino": "^8.17.0",
-    "jimp": "^0.16.1",
+    "jimp": "^1.6.0",
     "@dark-yasiya/scrap":"1.0.1",
     "@octokit/rest": "^20.0.2",
     "denethdev-ytmp3":"1.0.3",
@@ -43,6 +43,6 @@
     "baileys",
     "sula-md"
   ],
-  "author": "chama",
+  "author": "unkown",
   "license": "MIT"
 }
